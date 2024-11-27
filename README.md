@@ -12,7 +12,9 @@ Basicamente, é apenas necessário executar o Main.java, resultado no seguinte m
 ```
 
 Assim, você pode escolher entre o número 1 ou número 2. E a partir da escolha, aparecerá uma lista com os transportes movidos por esforço humano ou por bateria.
+
 ---
+
 #### Transportes movidos por esforço humano:
 Se você escolheu o número 1, será isto daqui que estará sendo apresentado:
 ```bash
@@ -22,6 +24,7 @@ Se você escolheu o número 1, será isto daqui que estará sendo apresentado:
   O skate precisa do esforço humano
 ```
 ---
+
 #### Transportes movidos por bateria:
 Se você escolheu o número 2, será isto daqui que estará sendo apresentado:
 ```bash
@@ -30,12 +33,14 @@ Se você escolheu o número 2, será isto daqui que estará sendo apresentado:
   A bicicleta elétrica precisa de bateria
 ```
 ---
+
 #### Opção Inválida:
 Se você escolheu digitar outra coisa, será isto daqui que estará sendo apresentado:
 ```bash
  Opcao invalida. Encerrando o programa...
 ```
 ---
+
 ## Autor:
 
 Lucas Rodrigues;
