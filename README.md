@@ -46,5 +46,5 @@ Se você escolheu digitar outra coisa, será isto daqui que estará sendo aprese
 Lucas Rodrigues;
 Última Atualização: 27/11/2024;
 
-#### Minhas declarações sobre a atividade proposta:
+#### Minhas considerações sobre a atividade proposta:
 Espero não ser reprovado :D
